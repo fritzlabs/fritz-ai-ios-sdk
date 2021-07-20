@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1250"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "834693C32167C2580035527B"
+               BuildableName = "Fritz.framework"
+               BlueprintName = "Fritz"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83EA95C92159608B00B24C41"
+               BuildableName = "CoreMLHelpers.framework"
+               BlueprintName = "CoreMLHelpers"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839118CD20CEC21600C1C55E"
+               BuildableName = "FritzCore.framework"
+               BlueprintName = "FritzCore"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3882A7E21F86C8C80097AE40"
+               BuildableName = "FritzManagedModel.framework"
+               BlueprintName = "FritzManagedModel"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839118EB20CEC29F00C1C55E"
+               BuildableName = "FritzVision.framework"
+               BlueprintName = "FritzVision"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83EA95AB21595C5600B24C41"
+               BuildableName = "FritzVisionPeopleSegmentationModelFast.framework"
+               BlueprintName = "FritzVisionPeopleSegmentationModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8356D6602118F73F00500D32"
+               BuildableName = "FritzVisionStyleModelPaintings.framework"
+               BlueprintName = "FritzVisionStyleModelPaintings"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83405674221269C200750477"
+               BuildableName = "FritzVisionMultiPoseModel.framework"
+               BlueprintName = "FritzVisionMultiPoseModel"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5F94389E21B9BDB400FA3D6C"
+               BuildableName = "FritzVisionPeopleSegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionPeopleSegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83788A882294585900D803A6"
+               BuildableName = "FritzVisionRigidPose.framework"
+               BlueprintName = "FritzVisionRigidPose"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8316656D232817160001BD98"
+               BuildableName = "FritzVisionPeopleSegmentationModelSmall.framework"
+               BlueprintName = "FritzVisionPeopleSegmentationModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABC282335318100448B2E"
+               BuildableName = "FritzVisionHairSegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionHairSegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABC072335314D00448B2E"
+               BuildableName = "FritzVisionHairSegmentationModelFast.framework"
+               BlueprintName = "FritzVisionHairSegmentationModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABC182335317300448B2E"
+               BuildableName = "FritzVisionHairSegmentationModelSmall.framework"
+               BlueprintName = "FritzVisionHairSegmentationModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83CAB48723392A53007953CA"
+               BuildableName = "FritzVisionLivingRoomSegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionLivingRoomSegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83CAB47723392A43007953CA"
+               BuildableName = "FritzVisionLivingRoomSegmentationModelFast.framework"
+               BlueprintName = "FritzVisionLivingRoomSegmentationModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83CAB49723392A5D007953CA"
+               BuildableName = "FritzVisionLivingRoomSegmentationModelSmall.framework"
+               BlueprintName = "FritzVisionLivingRoomSegmentationModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABD1D23353C6300448B2E"
+               BuildableName = "FritzVisionOutdoorSegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionOutdoorSegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABD0D23353C5900448B2E"
+               BuildableName = "FritzVisionOutdoorSegmentationModelFast.framework"
+               BlueprintName = "FritzVisionOutdoorSegmentationModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABD2D23353C6B00448B2E"
+               BuildableName = "FritzVisionOutdoorSegmentationModelSmall.framework"
+               BlueprintName = "FritzVisionOutdoorSegmentationModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABCC8233539F600448B2E"
+               BuildableName = "FritzVisionPeopleAndPetSegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionPeopleAndPetSegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABC84233536A500448B2E"
+               BuildableName = "FritzVisionPetSegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionPetSegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABC642335368800448B2E"
+               BuildableName = "FritzVisionPetSegmentationModelFast.framework"
+               BlueprintName = "FritzVisionPetSegmentationModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABC742335369700448B2E"
+               BuildableName = "FritzVisionPetSegmentationModelSmall.framework"
+               BlueprintName = "FritzVisionPetSegmentationModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABDDA2335401000448B2E"
+               BuildableName = "FritzVisionSkySegmentationModelAccurate.framework"
+               BlueprintName = "FritzVisionSkySegmentationModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABDBA23353FFB00448B2E"
+               BuildableName = "FritzVisionSkySegmentationModelFast.framework"
+               BlueprintName = "FritzVisionSkySegmentationModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "839ABDCA2335400300448B2E"
+               BuildableName = "FritzVisionSkySegmentationModelSmall.framework"
+               BlueprintName = "FritzVisionSkySegmentationModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8358277E234252E5001A5F8B"
+               BuildableName = "FritzVisionHumanPoseModelAccurate.framework"
+               BlueprintName = "FritzVisionHumanPoseModelAccurate"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8358276E234252CF001A5F8B"
+               BuildableName = "FritzVisionHumanPoseModelFast.framework"
+               BlueprintName = "FritzVisionHumanPoseModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8358279923425D33001A5F8B"
+               BuildableName = "FritzVisionHumanPoseModelSmall.framework"
+               BlueprintName = "FritzVisionHumanPoseModelSmall"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "835827F223428502001A5F8B"
+               BuildableName = "FritzVisionLabelModelFast.framework"
+               BlueprintName = "FritzVisionLabelModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "835828142343A0C0001A5F8B"
+               BuildableName = "FritzVisionObjectModelFast.framework"
+               BlueprintName = "FritzVisionObjectModelFast"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "83C83D9F23736F0800E96AD2"
+               BuildableName = "FritzVisionStyleModelPatterns.framework"
+               BlueprintName = "FritzVisionStyleModelPatterns"
+               ReferencedContainer = "container:Fritz.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "834693C32167C2580035527B"
+            BuildableName = "Fritz.framework"
+            BlueprintName = "Fritz"
+            ReferencedContainer = "container:Fritz.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "834693C32167C2580035527B"
+            BuildableName = "Fritz.framework"
+            BlueprintName = "Fritz"
+            ReferencedContainer = "container:Fritz.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+      <PostActions>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "${PROJECT_DIR}/post-archive.sh swift-framework&#10;">
+               <EnvironmentBuildable>
+                  <BuildableReference
+                     BuildableIdentifier = "primary"
+                     BlueprintIdentifier = "834693C32167C2580035527B"
+                     BuildableName = "Fritz.framework"
+                     BlueprintName = "Fritz"
+                     ReferencedContainer = "container:Fritz.xcodeproj">
+                  </BuildableReference>
+               </EnvironmentBuildable>
+            </ActionContent>
+         </ExecutionAction>
+      </PostActions>
+   </ArchiveAction>
+</Scheme>

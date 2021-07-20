@@ -1,0 +1,5 @@
+{
+  "id": "digits",
+  "version": 1,
+  "src": "https://fritz-swift-sdk.s3.amazonaws.com/models/2017-09-27-digits.mlmodel"
+}

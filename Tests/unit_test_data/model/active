@@ -1,0 +1,18 @@
+{
+  "versions": [{
+    "id": "digits-2",
+    "version": 2,
+    "src": "https://fritz-swift-sdk.s3.amazonaws.com/models/2017-09-27-digits.mlmodel",
+    "tags": ["premium", "holiday", "santa"]
+  }, {
+    "id": "digits",
+    "version": 1,
+    "src": "https://fritz-swift-sdk.s3.amazonaws.com/models/2017-09-27-digits.mlmodel",
+    "tags": ["premium", "holiday"]
+  }, {
+    "id": "style-transfer-model",
+    "version": 1,
+    "src": "https://fritz-swift-sdk.s3.amazonaws.com/models/starry_night_640x480_025.mlmodel",
+    "tags": ["style-transfer", "painting"]
+  }]
+}

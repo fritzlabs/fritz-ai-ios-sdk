@@ -1,6 +1,6 @@
 {
     "id": "style-transfer-model",
     "version": 1,
-    "src": "https://fritz-swift-sdk.s3.amazonaws.com/models/starry_night_640x480_025.mlmodel",
+    "src": "replace with your test asset",
     "tags": ["style-transfer", "painting"]
 }

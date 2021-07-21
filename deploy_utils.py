@@ -123,9 +123,9 @@ def push_to_public_cocoapods_repo(details: dict, retry_attempt: int = 0):
     synchronous = "--synchronous" if details.get("synchronize") else ""
 
     try:
-        run_command(
-            f'pod trunk push {details["podspec"]} --allow-warnings {synchronous}'
-        )
+        cmd = f'pod trunk push {details["podspec"]} --allow-warnings {synchronous}'
+        print(cmd)
+        run_command(cmd)
     except subprocess.CalledProcessError:
         if retry_attempt == MAX_COCOAPOD_RETRIES:
             raise

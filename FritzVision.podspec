@@ -16,8 +16,9 @@ Pod::Spec.new do |s|
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   s.dependency 'FritzCore'
-  #s.dependency 'FritzManagedModel'
+  s.dependency 'FritzManagedModel'
+  s.dependency 'FritzCoreMLHelpers'
 
-  s.source_files = 'Source/FritzVision/**/*.{h,swift,c,mlmodel}', 'Source/CoreMLHelpers'
+  s.source_files = 'Source/FritzVision/**/*.{h,swift,c,mlmodel}'
   s.resources = ['Source/FritzVision/ObjectDetection/Helpers/Anchors.csv']
 end

@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = "CoreMLHelpers"
+  s.name     = "FritzCoreMLHelpers"
   s.version = '7.0.0'
   s.summary  = "Types and functions that make it a little easier to work with Core ML in Swift. "
   s.homepage = "https://github.com/hollance/CoreMLHelpers"

@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = 'Official Fritz SDK for Swift 5.1 and Objective-C'
   s.homepage = 'https://www.fritz.ai'
   s.license = { :type => 'Apache 2.0', :file => 'LICENSE.md' }
-  s.author = { 'Jameson Toole' => 'jameson@fritz.ai' }
+  s.author = { 'Jameson Toole' => 'info@fritz.ai' }
   s.source = {:git => 'https://github.com/fritzlabs/fritz-ai-ios-sdk.git', :tag => s.version.to_s }
 
   s.requires_arc = true

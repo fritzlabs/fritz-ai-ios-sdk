@@ -19,8 +19,8 @@ pod "Fritz", "7.0.1"
 pod "Fritz/VisionPoseModel/Human/Fast", "7.0.1"
 ```
 
-Minimal code changes are required, if any. Functions that previous made calls to
-the Fritz AI backend service now simple return `null`.
+Minimal code changes are required, if any. Functions that previously made calls to
+the Fritz AI backend service now simply return `null`.
 
 Finally, the `CoreMLHelpers` module name has been changed to `FritzCoreMLHelpers`
 

@@ -1,0 +1,14 @@
+//
+//  Fritz-Release.xcconfig
+//  Fritz
+//
+//  Created by Christopher Kelly on 5/22/19.
+//  Copyright © 2019 Fritz Labs Incorporated. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Pods/Target Support Files/Pods-FritzVisionRigidPose/Pods-FritzVisionRigidPose.release.xcconfig"
+
+GCC_PREFIX_HEADER = $(SRCROOT)/Source/FritzVisionRigidPose/PrefixHeader.pch

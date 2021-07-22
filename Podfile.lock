@@ -1,0 +1,20 @@
+PODS:
+  - Hippolyte (1.2.1)
+  - OpenCV (3.4.2)
+
+DEPENDENCIES:
+  - Hippolyte
+  - OpenCV
+
+SPEC REPOS:
+  trunk:
+    - Hippolyte
+    - OpenCV
+
+SPEC CHECKSUMS:
+  Hippolyte: eba3f74297b82aa04330067cf99142d0db90a9db
+  OpenCV: 452909747854c92e0f59670961ed5131f5286cb5
+
+PODFILE CHECKSUM: 66122101b1e12e1abf11758657cc216b969ccd77
+
+COCOAPODS: 1.10.1

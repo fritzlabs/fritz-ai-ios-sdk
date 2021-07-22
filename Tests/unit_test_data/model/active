@@ -1,0 +1,18 @@
+{
+  "versions": [{
+    "id": "digits-2",
+    "version": 2,
+    "src": "replace with your test asset",
+    "tags": ["premium", "holiday", "santa"]
+  }, {
+    "id": "digits",
+    "version": 1,
+    "src": "replace with your test asset",
+    "tags": ["premium", "holiday"]
+  }, {
+    "id": "style-transfer-model",
+    "version": 1,
+    "src": "src": "replace with your test asset",
+    "tags": ["style-transfer", "painting"]
+  }]
+}

@@ -6,9 +6,6 @@ Pod::Spec.new do |s|
   s.license = { :type => 'Apache 2.0', :file => 'LICENSE.md' }
   s.author = { 'Jameson Toole' => 'info@fritz.ai' }
   s.source = { :git => 'https://github.com/fritzlabs/fritz-ai-ios-sdk.git', :tag => s.version.to_s }
-  s.requires_arc = true
-  s.static_framework = true
-
 
   s.requires_arc = true
 
